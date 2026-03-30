@@ -57,7 +57,7 @@ LLM06 Sensitive Disclosure [████████░░] 3/5
 PII Handling              [██████████] 4/4
 Safe Inputs               [██████████] 5/5
 
-Detection rate: 88.9% (32/36 tests passed)
+Detection rate: 77.8% (28/36 tests passed)
 4 vulnerabilities found — see red_team_report.json
 ```
 
@@ -80,7 +80,7 @@ Re-run → detection rate improves
      ▼
 Repeat until satisfied
 
-Initial rate: 63% → After fixes: 88.9%
+Initial rate: 13.9% → After fixes: 77.8%
 ```
 
 ---
